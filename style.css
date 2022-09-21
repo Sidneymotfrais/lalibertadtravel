@@ -55,7 +55,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 60vh;
-    background: url(img/DESTINOTURISTICONORTE2.jpg) no-repeat center;
+    background: url(./img/DESTINOTURISTICONORTE2.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -141,7 +141,7 @@ p {
 }
 
 .price {
-    background: url(img/elfaroadventureresort.jpg) no-repeat center;
+    background: url(./img/elfaroadventureresort.jpg) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
